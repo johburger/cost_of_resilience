@@ -1,4 +1,4 @@
-# Designing failure-resilient CO$_2$ transport: Trade-offs between cost and emissions of redundant infrastructure
+# Designing failure-resilient CO<sub>2</sub> transport: Trade-offs between cost and emissions of redundant infrastructure
 
 ## Run
 
