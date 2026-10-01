@@ -1,0 +1,7 @@
+# Ship backup transport parameters,,
+parameter,value,unit / notes
+name,Ship,string label
+capacity_tonne_per_hr,1000,[t/hr]
+lead_time_days,0,[days]
+gwi_fix_transport,0.000590091,[kg/(t km)]
+gwi_var_transport,0.009353725,[kg/(t km)]

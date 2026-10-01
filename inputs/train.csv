@@ -1,0 +1,7 @@
+# Train backup transport parameters,,
+parameter,value,unit / notes
+name,Train,string label
+capacity_tonne_per_hr,1000,[t/hr]
+lead_time_days,0,[days]
+gwi_fix_transport,0.036701711,[kg/(t km)]
+gwi_var_transport,0.044507247,[kg/(t km)]

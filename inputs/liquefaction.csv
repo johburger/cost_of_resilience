@@ -1,0 +1,5 @@
+# Liquefaction MP parameters,,
+parameter,value,
+name,Liquefaction MP,unit/comment
+gwi_fix,0.184,[kg/t/yr]
+gwi_var,44.600,[kg/t]

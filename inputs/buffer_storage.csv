@@ -1,0 +1,5 @@
+# Buffer storage parameters,,
+parameter,value,
+name,Buffer storage,unit/comment
+gwi_fix,5.42,[kg/t/yr]
+gwi_var,0,[kg/t]

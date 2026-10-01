@@ -1,0 +1,8 @@
+# CO2 pipeline parameters,,
+# Monetary units: EUR (€),,
+# Pipeline capacity is always sized to the captured CO2 flow (set in ccts_system.csv),,
+parameter,value,unit / notes
+failure_probability,0.05,[-]     annual
+failure_duration_days,26,[days]
+gwi_fix_pipeline,0,[kg/(t km)]
+gwi_var_pipeline,0.0051,[kg/(t km)]
